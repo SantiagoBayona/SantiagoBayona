@@ -1,4 +1,4 @@
-[![](https://visitcount.itsvg.in/api?id=SantiagoBayona&label=Profile%20Views&color=12&pretty=false)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=SantiagoBayona&label=Profile%20Views&color=12&icon=1&pretty=true)](https://visitcount.itsvg.in)
 
 <!--
 **SantiagoBayona/SantiagoBayona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
